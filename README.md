@@ -11,11 +11,11 @@ git clone https://github.com/25abubakar/Quiz-App.git
 cd quiz-app
 Install dependencies:
 
-npm install
-Now, you can start a local web server by running:
+**npm install
+Now, you can start a local web server by running:**
 
-npm start
-And then open http://localhost:3000 to view it in the browser.
+**npm start
+And then open http://localhost:3000 to view it in the browser.**
 
 Available Scripts
 In this project, you can run the following scripts:
